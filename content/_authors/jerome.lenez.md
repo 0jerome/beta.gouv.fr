@@ -2,7 +2,7 @@
 fullname: Jérôme Lenez
 domaine: Produit
 role: Product Manager
-github: jrmlnz
+github: https://github.com/jrmlnzz
 missions:
   - start: 2021-08-02
     end: 2024-07-31
